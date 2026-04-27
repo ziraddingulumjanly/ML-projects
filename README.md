@@ -4,4 +4,11 @@ This repository focuses on implementing core **ML algorithms** from scratch. I p
 
 ![Cover Image](cover.png)
 
-[....](https://ziraddin-gulumjan.onrender.com/)
+Also see:
+
+[MLOps Projects](https://ziraddin-gulumjan.onrender.com/)
+
+[Data Analytics, Data Science and Machine Learning Projects
+](https://ziraddin-gulumjan.onrender.com/data-analytics/)
+
+[Master Publications](https://ziraddin-gulumjan.onrender.com/papers/)
