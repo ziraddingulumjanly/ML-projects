@@ -3,3 +3,5 @@ data/bottle.csv
 data/cast.csv
 data/creditcard.csv
 .env
+models/
+outputs/
