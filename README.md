@@ -4,11 +4,10 @@ This repository focuses on implementing core **ML algorithms** from scratch. I p
 
 ![Cover Image](cover.png)
 
-Also see:
+Also see my:
 
-[MLOps Projects](https://ziraddin-gulumjan.onrender.com/)
+[Jupyter Book Version](https://ziraddingulumjanly.github.io/MLBook/intro.html)
 
-[Data Analytics, Data Science and Machine Learning Projects
-](https://ziraddin-gulumjan.onrender.com/data-analytics/)
+[Machine Learning Projects](https://ziraddin-gulumjan.onrender.com/data-analytics/)
 
 [Master Publications](https://ziraddin-gulumjan.onrender.com/papers/)
