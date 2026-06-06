@@ -5,3 +5,4 @@ data/creditcard.csv
 .env
 models/
 outputs/
+cover.png/
